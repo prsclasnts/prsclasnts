@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prsclasnts
-- 👀 I’m interested in Javascript, Angular and Flutter
+- 👀 I’m interested in Javascript, Java and Dart
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on **anything free and open source**
 
