@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prsclasnts
 - 👀 I’m interested in Javascript, Java and Dart
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on **anything free and open source**
 
 <!---
