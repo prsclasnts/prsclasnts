@@ -13,11 +13,11 @@
 <br>
 <hr><br>
 <a href="https://github.com/prsclasnts">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsclasnts&theme=light&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsclasnts&theme=light&hide_langs_below=1&langs_count=7" />
 </a>
 
 <a href="https://github.com/prsclasnts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prsclasnts&show_icons=true&theme=light&line_height=27" alt="Priscila's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prsclasnts&show_icons=true&include_all_commits=true&theme=light&line_height=27" alt="Priscila's github stats"/>
 </a>
 </a>
 
