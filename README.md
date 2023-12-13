@@ -12,12 +12,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/priscila-snts/)  [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/prsclast)
 <br>
 <hr><br>
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsclasnts&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/prsclasnts">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsclasnts&theme=light&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=prsclasnts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/prsclasnts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prsclasnts&show_icons=true&theme=light&line_height=27" alt="Priscila's github stats"/>
+</a>
 </a>
 
 
